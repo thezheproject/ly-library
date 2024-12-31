@@ -1,0 +1,25 @@
+{
+    "library": {
+        "info": {
+            "name": "ly-library",
+            "introduction": "一个公共的 GNU LilyPond 乐谱收集仓库。",
+            "platform": ["GitHub", "Gitee"],
+            "api": true
+        },
+        "songs": {
+            
+        },
+        "version": {
+            "bundled": "",
+            "choice": ""
+        }
+    },
+    "tools": {
+        "workflow": {
+            
+        },
+        "source": {
+            "example-tool": "tools/example.py"
+        }
+    }
+}
